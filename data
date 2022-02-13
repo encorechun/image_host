@@ -1,0 +1,52 @@
+[
+  {
+    "x": "photographing",
+    "value": 0.18,
+    "category": "4"
+  },
+  {
+    "x": "standing",
+    "value": 0.124,
+    "category": "4"
+  },
+  {
+    "x": "sitting",
+    "value": 0.072,
+    "category": "4"
+  },
+  {
+    "x": "walking",
+    "value": 0.0.067,
+    "category": "4"
+  },
+  {
+    "x": "filming",
+    "value": 0.063,
+    "category": "4"
+  },
+  {
+    "x": "standing",
+    "value": 0.132,
+    "category": "8"
+  },
+  {
+    "x": "walking",
+    "value": 0.106,
+    "category": "8"
+  },
+  {
+    "x": "balancing",
+    "value": 0.051,
+    "category": "8"
+  },
+  {
+    "x": "photographing",
+    "value": 0.048,
+    "category": "8"
+  },
+  {
+    "x": "sitting",
+    "value": 0.047,
+    "category": "8"
+  },
+]
